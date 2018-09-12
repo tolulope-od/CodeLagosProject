@@ -1,5 +1,5 @@
 Lagos Trip Curator - Python Functionalities by: Tolulope Odueke (tolulope.od@gmail.com)
-A CodeLagos Project handled by Mr. Dotun - CodeLagos Facilitator MusterPoint, Ogba, Lagos.
+A CodeLagos Project handled by Mr. Dotun Onasanya - CodeLagos Facilitator MusterPoint, Ogba, Lagos.
 CodeLagos August - September, 2018.
 
 This project was carried out to display some capabilities of Python for Information Gathering and the creation of information systems based on web crawling.
@@ -18,7 +18,7 @@ The aim of this program is to provide information to the user, about Lagos and h
 
 After the program terminates, it send a summary based on the decisions/options chosen during the running of the program which is stored in the output.txt file. Upon the termination of the program, the user can refer to this file for more information or as a reference of the trip plan.
 
--------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 This  project was done by Tolulope Odueke, as a pre-requisite for the completion for the Python Development class by CodeLagos for August - September 2018.
 I would also love to seize this opportunity to thank the Government of Lagos state and the state Governor, His Excellency Governor Ambode for the opportunity given to lagosians to learn to code to bring solutions to our neighbourhood. 
 Thank you for sharing in the Lagos Experience, I have I have been able to provide you with some useful information enough to influence your stay in the Centre of Excellence.
